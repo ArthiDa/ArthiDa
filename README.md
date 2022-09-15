@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArthiDa
+- 👋 Hi, I’m **@ArthiDa**
 - 👀 I’m interested in cp and developing.
 - 🌱 I’m currently learning what I want to learn.
 - 💞️ I’m looking to collaborate on ...
